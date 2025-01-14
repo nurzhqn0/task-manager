@@ -39,7 +39,7 @@
                             type="text"
                             class="form-control"
                             id="name"
-                            name="taskName"
+                            name="name"
                             value="<%= task.getName() %>"
                             required>
                 </div>
@@ -49,7 +49,7 @@
                     <textarea
                             class="form-control"
                             id="description"
-                            name="taskDescription"
+                            name="description"
                             rows="3"
                             required><%= task.getDescription() %></textarea>
                 </div>
