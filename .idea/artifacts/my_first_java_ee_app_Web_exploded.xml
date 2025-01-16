@@ -5,7 +5,7 @@
       <element id="javaee-facet-resources" facet="my-first-java-ee-app/web/Web" />
       <element id="directory" name="WEB-INF">
         <element id="directory" name="classes">
-          <element id="module-output" name="my-first-java-ee-app" />
+          <element id="module-output" name="learn-ee" />
         </element>
       </element>
     </root>

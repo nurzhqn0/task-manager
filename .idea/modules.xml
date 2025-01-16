@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/my-first-java-ee-app.iml" filepath="$PROJECT_DIR$/my-first-java-ee-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/learn-ee.iml" filepath="$PROJECT_DIR$/learn-ee.iml" />
     </modules>
   </component>
 </project>
